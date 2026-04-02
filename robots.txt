@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Указываем путь к карте сайта для роботов
+Sitemap: https://polymarket-ru.vercel.app/sitemap.xml
+
+# Указываем главное зеркало (помогает Яндексу)
+Host: https://polymarket-ru.vercel.app/
